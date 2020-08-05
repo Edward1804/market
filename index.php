@@ -9,8 +9,10 @@ require_once 'config.php';
 require_once 'core/base/settings/internal_settings.php';
 require_once 'libraries/functions.php';
 
+
+
 use core\base\exceptions\RouteExceptions;
-use core\base\controllers\RouteController;
+use core\base\controller\RouteController;
 
 try{
     RouteController::getInstance();
