@@ -12,7 +12,14 @@ class ShopSettings
     private $baseSettings;
 
     private $routes = [
-        'admin' => 'vasya',
+        'plugins' => [
+            'path' => 'core/plugins/',
+            'hrUrl' => false,
+            'dir' => 'controller',
+            'routes' => [
+
+            ]
+        ],
     ];
 
     private $templateArr = [
