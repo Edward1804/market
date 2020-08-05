@@ -15,7 +15,11 @@ use core\base\exceptions\RouteExceptions;
 use core\base\controller\RouteController;
 
 try{
-    RouteController::getInstance();
+    RouteController::getInstance()->route();
+
+//    echo "111";
+
+
 }
 catch (RouteExceptions $e) {
     exit($e->getMessage());
