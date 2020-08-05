@@ -47,12 +47,14 @@ class RouteController
 
             if(!$this->routes) throw new RouteException('Сайт находится на техническом обслуживании');
 
-            if(strpos($adress_str, $this->routes['admin']['alias']) === strlen(PATH)){
+            $url = explode('/', substr($adress_str, strlen(PATH)));
+
+            if($url[0] && $url[0] === $this->routes['admin']['alias']){
                 /**
                  * админка
                  */
 
-                $url = explode('/', substr($adress_str, strlen(PATH . $this->routes['admin']['alias']) + 1));
+                array_shift($url);
 
                 if($url[0] && is_dir($_SERVER['DOCUMENT_ROOT'] . PATH . $this->routes['plugins']['path'] . $url[0])){
 
