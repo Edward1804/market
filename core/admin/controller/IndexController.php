@@ -13,15 +13,15 @@ class IndexController extends BaseController
 
         $table = 'category';
 
-//        $res = $db->get($table, [
-//            'fields' => ['id', 'name'],
-//            'where' => ['id' => 1, 'name' => 'Apple'],
-//            'operand' => ['=', '<>'],
-//            'condition' => ['AND'],
-//            'order' => ['name', 'id'],
-//            'order_direction' => ['ASC', 'DESC'],
-//            'limit' => '1'
-//        ]);
+        $res = $db->get($table, [
+            'fields' => ['id', 'name'],
+            'where' => ['id' => 1, 'name' => 'Apple'],
+            'operand' => ['=', '<>'],
+            'condition' => ['AND'],
+            'order' => ['name', 'id'],
+//            'order_direction' => ['DESC'],
+            'limit' => '1'
+        ]);
 
         exit('I am admin panel');
     }
