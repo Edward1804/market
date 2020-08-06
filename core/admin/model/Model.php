@@ -4,7 +4,12 @@
 namespace core\admin\model;
 
 
-class Model
+
+use core\base\model\BaseModel;
+
+class Model extends BaseModel
 {
+
+
 
 }

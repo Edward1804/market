@@ -1,12 +1,4 @@
-Fault: 06-08-2020 9:19:23 - Не верно имя файла для подключения - core/user/controller/IndexController
+Fault: 06-08-2020 10:56:20 - Не верно имя файла для подключения - core/base/model/BaseModel
 file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
 In line 32
-
-Fault: 06-08-2020 9:19:23 - Class core\user\controller\IndexController does not exist
-file D:\OpenServer\domains\market\core\base\controller\BaseController.php
-In line 40
-
-Fault: 06-08-2020 9:22:50 - Method core\admin\controller\IndexController::request() does not exist
-file D:\OpenServer\domains\market\core\base\controller\BaseController.php
-In line 40
 
