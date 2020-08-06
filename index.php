@@ -11,22 +11,14 @@ require_once 'libraries/functions.php';
 
 
 
-use core\base\exceptions\RouteExceptions;
+use core\base\exceptions\RouteException;
 use core\base\controller\RouteController;
-use core\base\settings\Settings;
-
-$s = Settings::get('route');
-$s1 = Settings::get('templateArr');
 
 
 try{
     RouteController::instance()->route();
-
-//    echo "111";
-
-
 }
-catch (RouteExceptions $e) {
+catch (RouteException $e) {
     exit($e->getMessage());
 }
 

@@ -23,13 +23,13 @@ const USER_CSS_JS = [
     'scripts' => []
 ];
 
-use core\base\exceptions\RouteExceptions;
+use core\base\exceptions\RouteException;
 
 function autoloadMainClasses($class_name){
     $class_name = str_replace('\\', '/', $class_name);
 
     if(!@include_once $class_name . '.php'){
-        throw new RouteExceptions('Не верно имя файла для подключения - '.$class_name);
+        new RouteException('Не верно имя файла для подключения - '.$class_name);
     }
 
 //    include $class_name . '.php';
