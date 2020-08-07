@@ -22,7 +22,33 @@ class IndexController extends BaseController
             'condition' => ['AND', 'OR'],
             'order' => ['name', 'id'],
 //            'order_direction' => ['DESC'],
-            'limit' => '1'
+            'limit' => '1',
+            'join' => [
+                [
+                    'table' => 'join_table1',
+                    'fields' => ['id as j_id', 'name as j_name'],
+                    'type' => 'left',
+                    'where' => ['name' => 'sasha'],
+                    'opearand' => ['='],
+                    'condition' => ['OR'],
+                    'on' => [
+                        'table' => 'category',
+                        'fields' => ['id', 'parent_id']
+                    ]
+                ],
+                'join_table1' => [
+                    'table' => 'join_table1',
+                    'fields' => ['id as j_id', 'name as j_name'],
+                    'type' => 'left',
+                    'where' => ['name' => 'sasha'],
+                    'opearand' => ['='],
+                    'condition' => ['OR'],
+                    'on' => [
+                        'table' => 'category',
+                        'fields' => ['id', 'parent_id']
+                    ]
+                ]
+            ]
         ]);
 
         exit('I am admin panel');

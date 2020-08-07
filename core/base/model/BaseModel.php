@@ -76,6 +76,40 @@ class BaseModel
      * 'order' => ['name', 'id'],
      * 'order_direction' => ['ASC', 'DESC'],
      * 'limit' => '1'
+     *
+     *
+     * 'fields' => ['id', 'name'],
+     * 'where' => ['id' => '1,2,3,4', 'name' => 'Apple', 'fio' => 'andr', 'car' => 'Porshe', 'color' => $color],
+     * 'operand' => ['IN', '%LIKE%', '=', '<>', 'NOT IN'],
+     * 'condition' => ['AND', 'OR'],
+     * 'order' => ['name', 'id'],
+     * 'order_direction' => ['DESC'],
+     * 'limit' => '1',
+     * 'join' => [
+     *      [
+     *          'table' => 'join_table1',
+     *          'fields' => ['id as j_id', 'name as j_name'],
+     *          'type' => 'left',
+     *          'where' => ['name' => 'sasha'],
+     *          'opearand' => ['='],
+     *          'condition' => ['OR'],
+     *          'on' => ['id', 'parent_id'],
+     *          'group_condition' => 'AND'
+     *      ],
+     *      'join_table1' => [
+     *          'table' => 'join_table1',
+     *          'fields' => ['id as j_id', 'name as j_name'],
+     *          'type' => 'left',
+     *          'where' => ['name' => 'sasha'],
+     *          'opearand' => ['='],
+     *          'condition' => ['OR'],
+     *          'on' => [
+     *              'table' => 'category',
+     *              'fields' => ['id', 'parent_id']
+     *          ]
+     *      ]
+     * ]
+     *
      */
     final public function get($table, $set = []){
 
@@ -84,7 +118,10 @@ class BaseModel
 
         $where = $this->createWhere($table, $set);
 
-        $join_arr = $this->createJoin($table, $set);
+        if(!$where) $new_where = true;
+            else $new_where = false;
+
+        $join_arr = $this->createJoin($table, $set, $new_where);
 
         $fields .= $join_arr['fields'];
         $join = $join_arr['join'];
@@ -143,7 +180,8 @@ class BaseModel
                     $order_direction = strtoupper($set['order_direction'][$direct_count-1]);
                 }
 
-                $order_by .= $table . $order . ' ' . $order_direction . ',';
+                if(is_int($order)) $order_by .= $order . ' ' . $order_direction . ',';
+                    else $order_by .= $table . $order . ' ' . $order_direction . ',';
             }
 
             $order_by = rtrim($order_by, ',');
@@ -240,6 +278,78 @@ class BaseModel
         }
 
         return $where;
+
+    }
+
+    protected function createJoin($table, $set, $new_where = false){
+
+        $fields = '';
+        $join = '';
+        $where = '';
+
+        if($set['join']){
+
+            $join_table = $table;
+
+            foreach ($set['join'] as $key => $item){
+
+                if(is_int($key)){
+                    if(!item['table']) continue;
+                        else $key = $item['table'];
+                }
+
+                if($join) $join .= ' ';
+
+                if ($item['on']){
+                    $join_fields = [];
+
+                    switch (2){
+
+                        case count($item['on']['fields']):
+                            $join_fields = $item['on']['fields'];
+                            break;
+                        case  count($item['on']):
+                            $join_fields = $item[on];
+                            break;
+                        default:
+                            continue 2;
+                            break;
+                    }
+
+                    if(!$item['type']) $join .= 'LEFT JOIN';
+                        else $join .= trim(strtoupper($item['type'])) . ' JOIN ';
+
+                    $join .= $key . ' ON ';
+
+                    if($item['on']['table']) $join .= $item['on']['table'];
+                        else $join .= $join_table;
+
+                    $join .= '.' . $join_fields[0] . '=' . $key . '.' . $join_fields[0];
+
+                    $join_table = $key;
+
+                    if($new_where){
+                        if($item['where']){
+                            $new_where = false;
+                        }
+
+                        $group_condition = 'WHERE';
+                    }else{
+
+                        $group_condition = $item['group_condition'] ? strtoupper($item['group_condition']) : 'AND';
+
+                        $fields .= $this->createFields($key, $item);
+                        $where .= $this->createWhere($key, $item, $group_condition);
+
+                    }
+
+                }
+
+            }
+
+            return compact('fields', 'join', 'where');
+
+        }
 
     }
 
