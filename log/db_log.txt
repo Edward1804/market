@@ -24,3 +24,27 @@ Fault: 07-08-2020 12:27:44 - Ошибка в SQL запросе: SELECT category
 file D:\OpenServer\domains\market\core\base\model\BaseModel.php
 In line 35
 
+Fault: 07-08-2020 14:40:34 - Ошибка в SQL запросе: SELECT category.Olga,category.Hello FROM category     - 1054 Unknown column 'category.Olga' in 'field list'
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+
+Fault: 07-08-2020 14:41:13 - Ошибка в SQL запросе: INERT INTO category (name,content,gellery_img,img,) VALUES ('Olga','Hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main_img.jpg',) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INERT INTO category (name,content,gellery_img,img,) VALUES ('Olga','Hello','[\"r' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+
+Fault: 07-08-2020 14:41:43 - Ошибка в SQL запросе: INSERT INTO category (name,content,gellery_img,img,) VALUES ('Olga','Hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main_img.jpg',) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES ('Olga','Hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main_img.jp' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+
+Fault: 07-08-2020 14:44:34 - Ошибка в SQL запросе: INSERT INTO category (name,content,gellery_img,img) VALUES ('Olga','Hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main_img.jpg') - 1054 Unknown column 'gellery_img' in 'field list'
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+
+Fault: 07-08-2020 14:45:08 - Ошибка в SQL запросе: INSERT INTO product (name,content,gellery_img,img) VALUES ('Olga','Hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main_img.jpg') - 1054 Unknown column 'gellery_img' in 'field list'
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+
+Fault: 07-08-2020 14:56:01 - Ошибка в SQL запросе: INSERT INTO product (content,gallery_img,img) VALUES ('Hello','[\"red.jpg\",\"blue.jpg\",\"black.jpg\"]','main_img.jpg') - 1364 Field 'name' doesn't have a default value
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+

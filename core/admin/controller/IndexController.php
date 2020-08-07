@@ -11,15 +11,16 @@ class IndexController extends BaseController
 
         $db = Model::instance();
 
-        $table = 'category';
+        $table = 'product';
 
-        $color = ['red', 'blue', 'black'];
+        $files['gallery_img'] = ['red.jpg', 'blue.jpg', 'black.jpg'];
+        $files['img'] = 'main_img.jpg';
 
-        $res = $db->get($table, [
-            'fields' => ['id', 'name', 'content'],
-            'where' => ['name' => "O'Raily"],
-            'limit' => '1'
-        ])[0];
+        $res = $db->add($table, [
+            'fields' => ['name' => 'katya', 'content' => 'Hello'],
+            'except' => ['name'],
+            'files' => $files
+        ]);
 
         exit('content =' . $res['content'] . ' Name ' . $res['name']);
     }
