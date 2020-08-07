@@ -20,3 +20,7 @@ Fault: 06-08-2020 11:37:44 - Ошибка в SQL запросе: SELECT id, name
 file D:\OpenServer\domains\market\core\base\model\BaseModel.php
 In line 35
 
+Fault: 07-08-2020 12:27:44 - Ошибка в SQL запросе: SELECT category.id,category.name,join_table1.id as j_id,join_table1.name as j_name,join_table1.id as j_id,join_table1.name as j_name FROM category LEFT JOIN join_table1 ON category.id=join_table1.id LEFT JOIN join_table1 ON category.id=join_table1.id WHERE category.id IN ('1','2','3','4') AND category.name LIKE '%Apple%' OR category.fio='andr' OR category.car<>'Porshe' OR category.color NOT IN ('red','blue','black') AND join_table1.name='sasha' AND join_table1.name='sasha'  ORDER BY category.name ASC,category.id ASC 1 - 1066 Not unique table/alias: 'join_table1'
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 35
+
