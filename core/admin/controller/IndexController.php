@@ -13,11 +13,13 @@ class IndexController extends BaseController
 
         $table = 'category';
 
+        $color = ['red', 'blue', 'black'];
+
         $res = $db->get($table, [
             'fields' => ['id', 'name'],
-            'where' => ['id' => 1, 'name' => 'Apple'],
-            'operand' => ['=', '<>'],
-            'condition' => ['AND'],
+            'where' => ['id' => '1,2,3,4', 'name' => 'Apple', 'fio' => 'andr', 'car' => 'Porshe', 'color' => $color],
+            'operand' => ['IN', '%LIKE%', '=', '<>', 'NOT IN'],
+            'condition' => ['AND', 'OR'],
             'order' => ['name', 'id'],
 //            'order_direction' => ['DESC'],
             'limit' => '1'
