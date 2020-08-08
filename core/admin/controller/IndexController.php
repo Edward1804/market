@@ -11,18 +11,18 @@ class IndexController extends BaseController
 
         $db = Model::instance();
 
-        $table = 'product';
+        $table = 'teachers';
 
-        $files['gallery_img'] = ['new_red.jpg'];
-        $files['img'] = 'main_img.jpg';
 
-        $files = [];
-
-        $_POST['id'] = 7;
-        $_POST['name'] = 'Oksana1';
-        $_POST['content'] = "<p>New' book1</p>";
-
-        $res = $db->edit($table, ['files' => $files]);
+        $res = $db->delete($table, [
+            'where' => ['id' => 13],
+            'join' => [
+                [
+                    'table' => 'students',
+                    'on' => ['student_id', 'id']
+                ]
+            ]
+        ]);
 
         exit('content =' . $res['content'] . ' Name ' . $res['name']);
     }

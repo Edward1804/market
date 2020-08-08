@@ -56,3 +56,15 @@ Fault: 08-08-2020 14:05:18 - Ошибка в SQL запросе: UPDATE product 
 file D:\OpenServer\domains\market\core\base\model\BaseModel.php
 In line 43
 
+Fault: 08-08-2020 15:23:47 - Ошибка в SQL запросе: UPDATE teachers SET name=,img= WHERE teachers.id='8'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'img= WHERE teachers.id='8'' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+
+Fault: 08-08-2020 15:24:37 - Ошибка в SQL запросе: UPDATE teachers SET name=,img= WHERE teachers.id='8'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'img= WHERE teachers.id='8'' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+
+Fault: 08-08-2020 15:24:57 - Ошибка в SQL запросе: UPDATE teachers SET name=,img= WHERE teachers.id='8'  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'img= WHERE teachers.id='8'' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+
