@@ -48,3 +48,11 @@ Fault: 07-08-2020 14:56:01 - Ошибка в SQL запросе: INSERT INTO pro
 file D:\OpenServer\domains\market\core\base\model\BaseModel.php
 In line 43
 
+Fault: 08-08-2020 13:55:00 - Ошибка в SQL запросе: SHOW COLUMNS FROM product - 0 
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+
+Fault: 08-08-2020 14:05:18 - Ошибка в SQL запросе: UPDATE product SET name='Oksana1',content='<p>New\' book1</p>',files='' WHERE id=4 - 1054 Unknown column 'files' in 'field list'
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+

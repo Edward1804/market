@@ -13,14 +13,16 @@ class IndexController extends BaseController
 
         $table = 'product';
 
-        $files['gallery_img'] = ['red.jpg', 'blue.jpg', 'black.jpg'];
+        $files['gallery_img'] = ['new_red.jpg'];
         $files['img'] = 'main_img.jpg';
 
-        $res = $db->add($table, [
-            'fields' => ['name' => 'katya', 'content' => 'Hello'],
-            'except' => ['name'],
-            'files' => $files
-        ]);
+        $files = [];
+
+        $_POST['id'] = 7;
+        $_POST['name'] = 'Oksana1';
+        $_POST['content'] = "<p>New' book1</p>";
+
+        $res = $db->edit($table, ['files' => $files]);
 
         exit('content =' . $res['content'] . ' Name ' . $res['name']);
     }
