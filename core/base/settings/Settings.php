@@ -42,6 +42,8 @@ class Settings
         ],
     ];
 
+    private $defaultTable = 'teachers';
+
     private $templateArr = [
         'text' => ['name', 'phone', 'address'],
         'textarea' => ['content', 'keywords']
@@ -97,5 +99,28 @@ class Settings
         return $base;
 
     }
+
+
+
+
+    protected $baseProjectTables = [
+        'articles' => []
+    ];
+
+//    protected $templateArr = [
+//
+//
+//    ];
+
+    protected $blockNeedle = [
+        'vg-rows' => [],
+        'vg-img' => [],
+        'vg-content' => []
+    ];
+
+    protected $translate = [
+
+    ];
+
 
 }

@@ -68,3 +68,7 @@ Fault: 08-08-2020 15:24:57 - Ошибка в SQL запросе: UPDATE teachers
 file D:\OpenServer\domains\market\core\base\model\BaseModel.php
 In line 43
 
+Fault: 09-08-2020 12:00:25 - Ошибка в SQL запросе: SHOW COLUMNS FROM  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 43
+
