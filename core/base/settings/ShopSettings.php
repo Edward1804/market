@@ -23,6 +23,7 @@ class ShopSettings
         ],
     ];
 
+
     private $templateArr = [
         'text' => ['price', 'short'],
         'textarea' => ['goods_content']

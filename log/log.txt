@@ -110,3 +110,291 @@ Fault: 09-08-2020 15:41:50 - Не найденны поля в таблице - 
 file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
 In line 60
 
+Fault: 09-08-2020 16:15:59 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 60
+
+Fault: 09-08-2020 16:17:24 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 60
+
+Fault: 09-08-2020 16:18:48 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 60
+
+Fault: 09-08-2020 16:40:20 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 60
+
+Fault: 09-08-2020 16:40:42 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 60
+
+Fault: 09-08-2020 16:52:42 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 60
+
+Fault: 09-08-2020 16:57:58 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 60
+
+Fault: 11-08-2020 10:58:24 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 66
+
+Fault: 11-08-2020 10:58:24 - Отсутствует шаблон - core/admin/viewshow
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 93
+
+Fault: 11-08-2020 11:00:44 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 66
+
+Fault: 11-08-2020 11:00:44 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:00:44 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:00:44 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:00:44 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:00:45 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:00:45 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:00:45 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:00:45 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:00:45 - Не верно имя файла для подключения - core/user/controller/ImagesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:00:45 - Class core\user\controller\ImagesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:00:45 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:00:45 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:00:45 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:00:45 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:00:45 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:00:45 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:02:03 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 66
+
+Fault: 11-08-2020 11:02:03 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:02:03 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:02:03 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:02:03 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:02:04 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:02:04 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:02:04 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:02:04 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:02:04 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:02:04 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:02:04 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:02:04 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:02:04 - Не верно имя файла для подключения - core/user/controller/ImagesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:02:04 - Class core\user\controller\ImagesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:02:04 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:02:04 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:05:26 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 66
+
+Fault: 11-08-2020 11:06:13 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 66
+
+Fault: 11-08-2020 11:06:13 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:06:13 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:06:13 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:06:13 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:06:13 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:06:13 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:06:14 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:06:14 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:06:14 - Не верно имя файла для подключения - core/user/controller/ImagesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:06:14 - Class core\user\controller\ImagesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:06:14 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:06:14 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:06:33 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 66
+
+Fault: 11-08-2020 11:08:39 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 66
+
+Fault: 11-08-2020 11:08:47 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 66
+
+Fault: 11-08-2020 11:08:47 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:08:47 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:08:47 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:08:47 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:08:47 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:08:47 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:08:47 - Не верно имя файла для подключения - core/user/controller/ImagesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:08:47 - Class core\user\controller\ImagesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:08:48 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:08:48 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
+Fault: 11-08-2020 11:08:48 - Не верно имя файла для подключения - core/user/controller/TemplateController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 11-08-2020 11:08:48 - Class core\user\controller\TemplateController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 45
+
