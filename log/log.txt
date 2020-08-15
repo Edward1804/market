@@ -698,3 +698,19 @@ Fault: 15-08-2020 14:55:40 - Не найденны поля в таблице - 
 file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
 In line 83
 
+Fault: 15-08-2020 15:43:02 - Не найденны поля в таблице - articles
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 83
+
+Fault: 15-08-2020 15:44:22 - Не найденны поля в таблице - articles
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 83
+
+Fault: 15-08-2020 15:46:04 - Не найденны поля в таблице - articles
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 83
+
+Fault: 15-08-2020 15:49:00 - Не найденны поля в таблице - articles
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 83
+

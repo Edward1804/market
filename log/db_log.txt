@@ -72,3 +72,15 @@ Fault: 09-08-2020 12:00:25 - Ошибка в SQL запросе: SHOW COLUMNS FR
 file D:\OpenServer\domains\market\core\base\model\BaseModel.php
 In line 43
 
+Fault: 15-08-2020 15:43:37 - Ошибка в SQL запросе: SELECT * FROM information_schema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SCHEMA = market AND TABLE_NAME = articles
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 42
+
+Fault: 15-08-2020 15:44:22 - Ошибка в SQL запросе: SELECT * FROM information_schema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SCHEMA = 'market' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 42
+
