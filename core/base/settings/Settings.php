@@ -60,16 +60,22 @@ class Settings
         'name' => ['Название', 'Не более 100 символов']
     ];
 
-    private $blockNeedle = [
-        'vg-rows' => [],
-        'vg_img' => ['id'],
-        'vg-content' => ['content']
+    private $radio = [
+        'visible' => ['Нет', 'Да', 'default' => 'Да']
     ];
 
     private $rootItems = [
         'name' => 'Корневая',
         'tables' => ['articles']
     ];
+
+    private $blockNeedle = [
+        'vg-rows' => [],
+        'vg_img' => ['id'],
+        'vg-content' => ['content']
+    ];
+
+
 
     static public function get($property){
         return self::instance()->$property;

@@ -17,6 +17,8 @@ class AddController extends BaseAdmin
 
         $this->createForeignData();
 
+        $this->createRadio();
+
         $this->createOutputData();
 
 
