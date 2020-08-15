@@ -66,6 +66,11 @@ class Settings
         'vg-content' => ['content']
     ];
 
+    private $rootItems = [
+        'name' => 'Корневая',
+        'tables' => ['articles']
+    ];
+
     static public function get($property){
         return self::instance()->$property;
     }
