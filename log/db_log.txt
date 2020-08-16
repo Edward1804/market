@@ -84,3 +84,19 @@ Fault: 15-08-2020 15:44:22 - Ошибка в SQL запросе: SELECT * FROM i
 file D:\OpenServer\domains\market\core\base\model\BaseModel.php
 In line 42
 
+Fault: 16-08-2020 16:34:26 - Ошибка в SQL запросе: INSERT INTO teachers (name,files) VALUES ('Dasha','1.jpg') - 1054 Unknown column 'files' in 'field list'
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 42
+
+Fault: 16-08-2020 17:35:29 - Ошибка в SQL запросе: INSERT INTO teachers (name,img) VALUES ('Dasha','2.jpg'),('Natalia','3.jpg','1') - 1136 Column count doesn't match value count at row 2
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 42
+
+Fault: 16-08-2020 17:47:15 - Ошибка в SQL запросе: INSERT INTO teachers (name,img,menu_position) VALUES ('Dasha','2.jpg','1'),('Natalia','3.jpg',NULL,NULL) - 1136 Column count doesn't match value count at row 2
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 42
+
+Fault: 16-08-2020 17:50:12 - Ошибка в SQL запросе: INSERT INTO teachers (name,menu_position) VALUES ('Nika','1','1.jpg') - 1136 Column count doesn't match value count at row 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 42
+
