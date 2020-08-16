@@ -77,6 +77,7 @@ abstract class BaseModel extends BaseModelMethods
      * @param $table
      * @param array $set
      * 'fields' => ['id', 'name'],
+     * 'no_concat' => false/true Если true не присоединять имя таблицы к поляи и where
      * 'where' => ['id' => 1, 'name' => 'Apple'],
      * 'operand' => ['=', '<>'],
      * 'condition' => ['AND'],

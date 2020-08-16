@@ -770,3 +770,55 @@ Fault: 15-08-2020 19:06:50 - Не найденны поля в таблице - 
 file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
 In line 84
 
+Fault: 16-08-2020 8:05:32 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 8:07:09 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 8:59:33 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 15:03:39 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 15:03:42 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 15:08:53 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 15:12:11 - Не найденны поля в таблице - articles
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 15:13:22 - Не найденны поля в таблице - articles
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 15:14:40 - Не найденны поля в таблице - articles
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 15:15:17 - Не найденны поля в таблице - articles
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 15:17:00 - Не найденны поля в таблице - articles
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 15:17:22 - Не найденны поля в таблице - articles
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 16-08-2020 15:17:52 - Не найденны поля в таблице - articles
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
