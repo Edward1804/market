@@ -822,3 +822,7 @@ Fault: 16-08-2020 15:17:52 - Не найденны поля в таблице - 
 file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
 In line 84
 
+Fault: 16-08-2020 15:40:47 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+

@@ -23,7 +23,6 @@ class AddController extends BaseAdmin
 
         $this->createOutputData();
 
-
     }
 
     protected function createForeignProperty($arr, $rootItems){
