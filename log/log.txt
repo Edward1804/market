@@ -890,3 +890,279 @@ Fault: 16-08-2020 17:53:39 - Не найденны поля в таблице - 
 file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
 In line 84
 
+Fault: 18-08-2020 11:52:44 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 18-08-2020 11:52:45 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 18-08-2020 11:52:45 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 18-08-2020 11:52:45 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 18-08-2020 11:52:45 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 18-08-2020 11:52:45 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 18-08-2020 11:52:45 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 18-08-2020 11:52:45 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 18-08-2020 11:52:45 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 18-08-2020 11:53:33 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 18-08-2020 11:56:57 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 18-08-2020 11:57:00 - Не найденны поля в таблице - students
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 18-08-2020 11:57:01 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 18-08-2020 11:57:02 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 18-08-2020 11:57:02 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 18-08-2020 11:57:02 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 18-08-2020 11:57:02 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 18-08-2020 11:57:02 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 18-08-2020 11:57:02 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 18-08-2020 11:57:02 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 18-08-2020 11:57:02 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 18-08-2020 11:57:03 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 18-08-2020 12:06:21 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 84
+
+Fault: 19-08-2020 4:39:41 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 90
+
+Fault: 19-08-2020 4:41:56 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 90
+
+Fault: 19-08-2020 4:42:35 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 90
+
+Fault: 19-08-2020 5:00:32 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 19-08-2020 5:03:24 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 19-08-2020 5:05:53 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 19-08-2020 5:10:24 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 19-08-2020 5:11:33 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 19-08-2020 5:12:47 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 19-08-2020 5:16:33 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 19-08-2020 5:17:39 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 20-08-2020 12:42:11 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 20-08-2020 12:42:11 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:11 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:11 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:11 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:11 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:11 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:11 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:11 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:16 - Не найденны поля в таблице - students
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 20-08-2020 12:42:18 - Не найденны поля в таблице - students
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 20-08-2020 12:42:25 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 20-08-2020 12:42:26 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:26 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:26 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:26 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:26 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:26 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:26 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:26 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:28 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 20-08-2020 12:42:45 - Не найденны поля в таблице - students
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 20-08-2020 12:42:46 - Не найденны поля в таблице - students
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 20-08-2020 12:42:49 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 20-08-2020 12:42:49 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:49 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:49 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:49 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:49 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:49 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:49 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 20-08-2020 12:42:49 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+
+Fault: 20-08-2020 12:42:50 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 20-08-2020 12:44:09 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 20-08-2020 12:46:00 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+

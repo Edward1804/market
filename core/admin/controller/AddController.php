@@ -9,6 +9,8 @@ use core\base\settings\Settings;
 class AddController extends BaseAdmin
 {
 
+    protected $action = 'add';
+
     protected function inputData()
     {
         if(!$this->userId) $this->execBase();
@@ -22,30 +24,6 @@ class AddController extends BaseAdmin
         $this->createRadio();
 
         $this->createOutputData();
-
-        $this->manyAdd();
-
-        exit();
-
-    }
-
-    protected function manyAdd(){
-
-//        $fields = ['name' => 'Dasha'];
-        $fields = [
-            'name' => 'Nika123', 'menu_position' => 1
-//            1 => ['name' => 'Dasha', 'img' => '2.jpg', 'menu_position' => 1],
-//            2 => ['name' => 'Natalia', 'img' => '3.jpg']
-        ];
-
-        $files = [//'img' => '1.jpg',
-            'img' => ['5.jpg', '6.jpg']
-        ];
-
-        $this->model->add('teachers', [
-            'fields' => $fields,
-            'files' => $files
-        ]);
 
     }
 

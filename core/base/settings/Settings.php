@@ -44,6 +44,8 @@ class Settings
 
     private $expansion = 'core/admin/expansion/';
 
+    private $formTemplates = PATH . 'core/admin/view/include/form_templates/';
+
     private $defaultTable = 'teachers';
 
     private $projectTables = [
@@ -52,8 +54,11 @@ class Settings
     ];
 
     private $templateArr = [
-        'text' => ['name', 'phone', 'address'],
-        'textarea' => ['content', 'keywords']
+        'text' => ['keywords','name'],
+        'textarea' => ['content'],
+        'radio' => ['visible'],
+        'select' => ['menu_position', 'parent_id'],
+        'img' => ['img']
     ];
 
     private $translate = [
@@ -71,7 +76,7 @@ class Settings
 
     private $blockNeedle = [
         'vg-rows' => [],
-        'vg_img' => ['id'],
+        'vg-img' => ['img'],
         'vg-content' => ['content']
     ];
 
