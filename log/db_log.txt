@@ -100,3 +100,11 @@ Fault: 16-08-2020 17:50:12 - Ошибка в SQL запросе: INSERT INTO tea
 file D:\OpenServer\domains\market\core\base\model\BaseModel.php
 In line 42
 
+Fault: 22-08-2020 17:30:53 - Ошибка в SQL запросе: INSERT INTO teachers (name,Да,menu_position,parent_id,keywords,content,date,datetime) VALUES ('sdcsdc','1','1','11','','',NOW(),NOW()) - 1054 Unknown column 'Да' in 'field list'
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 42
+
+Fault: 22-08-2020 17:53:51 - Ошибка в SQL запросе: INSERT INTO teachers (name,Да,menu_position,parent_id,keywords,content,date,datetime) VALUES ('sdcsdc','1','1','11','','',NOW(),NOW()) - 1054 Unknown column 'Да' in 'field list'
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 42
+

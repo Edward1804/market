@@ -1374,3 +1374,503 @@ Fault: 20-08-2020 14:42:47 - Не найденны поля в таблице - 
 file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
 In line 91
 
+Fault: 22-08-2020 13:49:28 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 22-08-2020 13:49:30 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 22-08-2020 13:49:32 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 91
+
+Fault: 22-08-2020 14:24:07 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:24:32 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:24:32 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:25:41 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:25:41 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:26:39 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:26:39 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:27:46 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:28:25 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:28:39 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:29:07 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:29:27 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:29:27 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:30:50 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:30:50 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:31:46 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:31:46 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:33:37 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:33:37 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:33:40 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:33:40 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:33:42 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:33:42 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:33:52 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:33:52 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:09 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:10 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:12 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:14 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:14 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:17 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:17 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:20 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:20 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:41 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:43 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:44 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:34:44 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:35:35 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:35:35 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:35:52 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:35:52 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:36:06 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:36:06 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:36:09 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:36:10 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:36:12 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:36:12 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:38:45 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:38:45 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:38:51 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:39:01 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:39:02 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:39:05 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:39:11 - Не найденны поля в таблице - students
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:39:12 - Не найденны поля в таблице - students
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:39:15 - Не найденны поля в таблице - students
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:39:18 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:39:19 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:39:22 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:39:47 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:40:03 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:40:05 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:50:33 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:53:20 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:53:22 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:53:27 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:55:34 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:55:41 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:56:01 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:56:05 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:56:14 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:56:38 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:56:41 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:56:47 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:57:16 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:57:17 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:57:18 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:57:30 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:57:36 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:58:09 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:58:16 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:58:16 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:58:25 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 14:59:13 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:00:55 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:01:57 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:05:50 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:06:02 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:06:08 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:06:08 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:08:40 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:10:29 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:10:29 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:10:46 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:11:01 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:11:05 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:11:10 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 15:11:30 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 17:11:08 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 17:11:11 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 17:13:57 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 17:16:44 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 95
+
+Fault: 22-08-2020 17:30:53 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:31:44 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:33:34 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:33:34 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:33:38 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:33:38 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:35:19 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:35:19 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:53:51 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:54:21 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:54:23 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:55:32 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:59:06 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:59:09 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:59:37 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 17:59:37 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 18:00:33 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 97
+
+Fault: 22-08-2020 18:00:35 - Не верно имя файла для подключения - core/admin/controller/EditController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 22-08-2020 18:00:35 - Class core\admin\controller\EditController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 47
+

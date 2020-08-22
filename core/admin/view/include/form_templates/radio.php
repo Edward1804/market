@@ -12,7 +12,7 @@
                     <?php if(is_int($key)):?>
                         <label class="vg-element vg-full vg-center vg-left vg-space-between">
                             <span class="vg-text vg-half"><?=$item?></span>
-                            <input type="radio" name="<?=$item?>" class="vg-input vg-half"
+                            <input type="radio" name="<?=$row?>" class="vg-input vg-half"
                                    <?php if(isset($this->data[$row]) && $this->data[$row] == $key) echo 'checked';
                                    elseif (!isset($this->data[$row]) && $this->foreignData[$row]['default'] == $item) echo 'checked';?> value="<?=$key?>">
                         </label>
