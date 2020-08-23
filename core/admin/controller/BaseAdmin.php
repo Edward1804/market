@@ -421,6 +421,7 @@ abstract class BaseAdmin extends BaseController
 
             }
 
+
             $textModify = new \libraries\TextModify();
             $alias = $textModify->translit($alias_str);
 
@@ -466,7 +467,7 @@ abstract class BaseAdmin extends BaseController
 
                 $this->model->edit($this->table, [
                     'fields' => ['alias' => $this->alias],
-                    'where' => [$this->columns['id_row'] => 'id']
+                    'where' => [$this->columns['id_row'] => $id]
                 ]);
 
                 return true;
