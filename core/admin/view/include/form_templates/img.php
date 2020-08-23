@@ -15,7 +15,7 @@
                    class="vg-element vg-full vg-input vg-text vg-left vg-button vg_delete">
                     <span>Удалить</span>
                 </a>
-                <input <?=$row?>="img" type="file" name="<?=$row?>" class="single_img">
+                <input id="<?=$row?>" type="file" name="<?=$row?>" class="single_img">
             </label>
         </div>
         <div class="vg-wrap vg-element vg-full">
