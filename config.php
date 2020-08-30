@@ -2,7 +2,7 @@
 
 defined('VG_ACCESS') or die('Access denied');
 
-const SITE_URL = 'http://market';
+const SITE_URL = 'http://cpa.fvds.ru';
 const PATH = '/';
 
 const HOST = 'localhost';
