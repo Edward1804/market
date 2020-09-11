@@ -19,12 +19,14 @@ class IndexController extends BaseController {
             'join' => [
                 'stud_teach' => ['on' => ['id', 'teachers']],
                 'students' => [
-                    'fields' => ['name as stud_name'],
+                    'fields' => ['name as stud_name', 'content'],
                     'on' => ['students', 'id']
                 ]
             ],
             'join_structure' => true
         ]);
+
+        exit();
 
     }
 
