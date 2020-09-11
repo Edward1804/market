@@ -5938,3 +5938,31 @@ Fault: 30-08-2020 12:02:29 - Class core\user\controller\UserfilesController does
 file D:\OpenServer\domains\market\core\base\controller\BaseController.php
 In line 48
 
+Fault: 07-09-2020 19:50:17 - Не найденны поля в таблице - teachers
+file D:\OpenServer\domains\market\core\admin\controller\BaseAdmin.php
+In line 99
+
+Fault: 07-09-2020 19:50:17 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 07-09-2020 19:50:17 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 48
+
+Fault: 07-09-2020 19:50:18 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 07-09-2020 19:50:18 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 48
+
+Fault: 07-09-2020 19:50:18 - Не верно имя файла для подключения - core/user/controller/UserfilesController
+file D:\OpenServer\domains\market\core\base\settings\internal_settings.php
+In line 33
+
+Fault: 07-09-2020 19:50:18 - Class core\user\controller\UserfilesController does not exist
+file D:\OpenServer\domains\market\core\base\controller\BaseController.php
+In line 48
+

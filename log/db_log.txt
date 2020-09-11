@@ -112,3 +112,31 @@ Fault: 27-08-2020 16:14:29 - Ошибка в SQL запросе: UPDATE parsing_
 file D:\OpenServer\domains\market\core\base\model\BaseModel.php
 In line 42
 
+Fault: 08-09-2020 10:33:21 - Ошибка в SQL запросе: SELECT teachers.*,stud_teach.students as TABLEstud_teachTABLE_students,stud_teach.teachers as TABLEstud_teachTABLE_teachers,students.name as stud_name as TABLEstudentsTABLE_name as stud_name,students.id as TABLE_studentsTABLE_ FROM teachers LEFT JOIN stud_teach ON teachers.id=stud_teach.teachers LEFT JOIN students ON stud_teach.students=students.id WHERE teachers.id IN ('13\','14\')    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as TABLEstudentsTABLE_name as stud_name,students.id as TABLE_studentsTABLE_ FROM' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 39
+
+Fault: 08-09-2020 10:36:48 - Ошибка в SQL запросе: SELECT teachers.*,stud_teach.students as TABLEstud_teachTABLE_students,stud_teach.teachers as TABLEstud_teachTABLE_teachers,students.name as stud_name as TABLEstudentsTABLE_name as stud_name,students.id as TABLE_studentsTABLE_ FROM teachers LEFT JOIN stud_teach ON teachers.id=stud_teach.teachers LEFT JOIN students ON stud_teach.students=students.id WHERE teachers.id IN ('13\','14\')    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as TABLEstudentsTABLE_name as stud_name,students.id as TABLE_studentsTABLE_ FROM' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 39
+
+Fault: 08-09-2020 10:42:25 - Ошибка в SQL запросе: SELECT teachers.*,stud_teach.students as TABLEstud_teachTABLE_students,stud_teach.teachers as TABLEstud_teachTABLE_teachers,students.name as stud_name as TABLEstudentsTABLE_name as stud_name,students.id as TABLE_studentsTABLE_id FROM teachers LEFT JOIN stud_teach ON teachers.id=stud_teach.teachers LEFT JOIN students ON stud_teach.students=students.id WHERE teachers.id IN ('13\','14\')    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as TABLEstudentsTABLE_name as stud_name,students.id as TABLE_studentsTABLE_id FR' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 39
+
+Fault: 08-09-2020 10:42:43 - Ошибка в SQL запросе: SELECT teachers.*,stud_teach.students as TABLEstud_teachTABLE_students,stud_teach.teachers as TABLEstud_teachTABLE_teachers,students.name as stud_name as TABLEstudentsTABLE_name as stud_name,students.id as TABLE_studentsTABLE_id FROM teachers LEFT JOIN stud_teach ON teachers.id=stud_teach.teachers LEFT JOIN students ON stud_teach.students=students.id WHERE teachers.id IN ('13\','14\')    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as TABLEstudentsTABLE_name as stud_name,students.id as TABLE_studentsTABLE_id FR' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 39
+
+Fault: 08-09-2020 10:56:35 - Ошибка в SQL запросе: SELECT teachers.*,stud_teach.students as TABLEstud_teachTABLE_students,stud_teach.teachers as TABLEstud_teachTABLE_teachers,students.name as stud_name,students.id as TABLE_studentsTABLE_id FROM teachers LEFT JOIN stud_teach ON teachers.id=stud_teach.teachers LEFT JOIN students ON stud_teach.students=students.id WHERE teachers.id IN ('13\','14\')    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '14\')' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 39
+
+Fault: 08-09-2020 11:02:37 - Ошибка в SQL запросе: SELECT teachers.*,stud_teach.students as TABLEstud_teachTABLE_students,stud_teach.teachers as TABLEstud_teachTABLE_teachers,students.name as stud_name,students.id as TABLE_studentsTABLE_id FROM teachers LEFT JOIN stud_teach ON teachers.id=stud_teach.teachers LEFT JOIN students ON stud_teach.students=students.id WHERE teachers.id IN ('10\','11\')    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '11\')' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 39
+
+Fault: 08-09-2020 11:10:35 - Ошибка в SQL запросе: SELECT teachers.*,stud_teach.students as TABLEstud_teachTABLE_students,stud_teach.teachers as TABLEstud_teachTABLE_teachers,students.name as stud_name,students.id as TABLE_studentsTABLE_id FROM teachers LEFT JOIN stud_teach ON teachers.id=stud_teach.teachers LEFT JOIN students ON stud_teach.students=students.id WHERE teachers.id IN (\'10\',\'11\')    - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '\'10\',\'11\')' at line 1
+file D:\OpenServer\domains\market\core\base\model\BaseModel.php
+In line 39
+

@@ -2,6 +2,7 @@
 
 namespace core\user\controller;
 
+use core\admin\model\Model;
 use core\base\controller\BaseController;
 
 class IndexController extends BaseController {
@@ -10,18 +11,21 @@ class IndexController extends BaseController {
 
     protected function inputData(){
 
-        $str = '1234567890abcdefg';
+        $model = Model::instance();
 
-        $en_str = \core\base\model\Crypt::instance()->encrypt($str);
+        $res = $model->get('teachers', [
+            'where' => ['id' => '10, 11'],
+            'operand' => ['IN'],
+            'join' => [
+                'stud_teach' => ['on' => ['id', 'teachers']],
+                'students' => [
+                    'fields' => ['name as stud_name'],
+                    'on' => ['students', 'id']
+                ]
+            ],
+            'join_structure' => true
+        ]);
 
-        $dec_str = \core\base\model\Crypt::instance()->decrypt($en_str);
-
-        exit();
     }
 
-//    protected function outputData(){
-//        $vars = func_get_arg(0);
-//
-//        $this->page = $this->render(TEMPLATE.'templater', $vars);
-//    }
 }

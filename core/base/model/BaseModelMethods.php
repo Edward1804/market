@@ -9,18 +9,88 @@ abstract class BaseModelMethods
 
     protected $sqlFunc = ['NOW()'];
 
-    protected function createFields($set, $table = false){
+    protected $tableRows;
 
-        $set['fields'] = (is_array($set['fields']) && !empty($set['fields']))
-            ? $set['fields'] : ['*'];
-
-        $table = ($table && !$set['no_concat']) ? $table . '.' : '';
+    protected function createFields($set, $table = false, $join = false){
 
         $fields = '';
 
+        $join_structure = false;
 
-        foreach ($set['fields'] as $field){
-            $fields .= $table . $field . ',';
+        if($join || isset($set['join_structure']) && $set['join_structure'] && $table){
+
+            $join_structure = true;
+
+            $this->showColumns($table);
+
+            if(isset($this->tableRows[$table]['multi_id_row'])) $set['fields'] = [];
+
+        }
+
+        $concat_table = $table && !$set['concat'] ? $table . '.' : '';
+
+        if(!isset($set['fields']) || !is_array($set['fields']) || !$set['fields']){
+
+            if(!$join){
+
+                $fields = $concat_table . '*,';
+
+            }else{
+
+                foreach ($this->tableRows[$table] as $key => $item){
+
+                    if($key !== 'id_row' && $key !== 'multi_id_row'){
+
+                        $fields .= $concat_table . $key . ' as TABLE' . $table . 'TABLE_' . $key . ',';
+
+                    }
+
+                }
+
+            }
+
+        }else{
+
+            $id_field = false;
+
+            foreach ($set['fields'] as $field){
+
+                if($join_structure && !$id_field && $this->tableRows[$table] === $field){
+
+                    $id_field = true;
+
+                }
+
+                if($field){
+
+                    if($join && $join_structure && !preg_match('/\s+as\s+/i', $field)){
+
+                        $fields .= $concat_table . $field . ' as TABLE' . $table . 'TABLE_' . $field . ',';
+
+                    }else{
+
+                        $fields .=$concat_table . $field . ',';
+
+                    }
+
+                }
+
+            }
+
+            if(!$id_field && $join_structure){
+
+                if($join){
+
+                    $fields .= $concat_table . $this->tableRows[$table]['id_row'] . ' as TABLE_' . $table . 'TABLE_' . $this->tableRows[$table]['id_row'] . ',';
+
+                }else{
+
+                    $fields .=$concat_table . $this->tableRows[$table]['id_row'] . ',';
+
+                }
+
+            }
+
         }
 
         return $fields;
@@ -114,7 +184,9 @@ abstract class BaseModelMethods
                         $in_str = '';
 
                         foreach ($temp_item as $v){
-                            $in_str .= "'" . addslashes(trim(($v)). "',");
+//                            $in_str .= "'" . addslashes(trim(($v)). "',");
+//                            $in_str .= addslashes("'" . trim(($v)). "',");
+                            $in_str .= "'" . trim(($v)). "',";
                         }
                     }
 
@@ -160,7 +232,6 @@ abstract class BaseModelMethods
         $fields = '';
         $join = '';
         $where = '';
-        $tables = '';
 
         if($set['join']){
 
@@ -202,7 +273,6 @@ abstract class BaseModelMethods
                     $join .= '.' . $join_fields[0] . '=' . $key . '.' . $join_fields[1];
 
                     $join_table = $key;
-                    $tables .= ', ' . trim($join_table);
 
                     if($new_where){
                         if($item['where']){
@@ -214,7 +284,7 @@ abstract class BaseModelMethods
 
                         $group_condition = $item['group_condition'] ? strtoupper($item['group_condition']) : 'AND';
                     }
-                    $fields .= $this->createFields($item, $key);
+                    $fields .= $this->createFields($item, $key, $set['join_structure']);
                     $where .= $this->createWhere($item, $key, $group_condition);
 
                 }
@@ -223,7 +293,7 @@ abstract class BaseModelMethods
 
         }
 
-        return compact('fields', 'join', 'where', 'tables');
+        return compact('fields', 'join', 'where');
 
     }
 
@@ -364,6 +434,12 @@ abstract class BaseModelMethods
         }
 
         return rtrim($update, ',');
+
+    }
+
+    protected function joinStructure($res, $table){
+
+
 
     }
 
